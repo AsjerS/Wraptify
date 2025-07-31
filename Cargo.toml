@@ -1,0 +1,13 @@
+[package]
+name = "Wraptify"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+wry = "0.52"
+tao = "0.29"
+anyhow = "1.0"
+dirs = "5.0"
+
+[build-dependencies]
+winres = "0.1"
