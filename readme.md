@@ -8,14 +8,14 @@ Download the newest version from the "releases" tab, which is usually somewhere 
 
 ## Features
 
-Currently, the only feature is a built-in agent switcher, so you don't get ads asking you to download their desktop app.
+- A built-in agent switcher, so you don't get ads asking you to download their desktop app
+- Tracker blocking, to reduce RAM usage a bit
 
 Below are some comparisons of this wrapper to the official desktop app:
 
 ### Pros
 
 - Faster startup and browsing (about 2-3x from my testing)
-- Less RAM usage
 - Always updated (because it's basically just a website)
 - More customizable
 - Smarter cache management (uses the one built into your system)
@@ -26,3 +26,4 @@ Below are some comparisons of this wrapper to the official desktop app:
 - No offline usage, so no downloads
 - No quality control, though defaults to the highest available: 128kbps for free, 256kbps for premium users (which can sound better than the desktop app's 320kbps due to a more efficient codec (Vorbis vs AAC))
 - Smart features like automix are missing (so certain albums' song transitions can sound worse)
+- Resource usage is slightly higher (might be resolvable in a future update)
