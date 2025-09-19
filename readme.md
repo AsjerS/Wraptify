@@ -20,10 +20,11 @@ Below are some comparisons of this wrapper to the official desktop app:
 - More customizable
 - Smarter cache management (uses the one built into your system)
 - Fully portable (if there are no permission issues)
+- Comparable quality to the desktop app at lower bitrates (so a smaller cache size): 128kbps AAC (≈192kbps MP3) for free users, 256kbps AAC (≈384kbps MP3) for premium users; the only exception is the Lossless tier on the desktop app, which will give higher quality than all options mentioned here
 
 ### Cons
 
 - No offline usage, so no downloads
-- No quality control, though defaults to the highest available: 128kbps for free, 256kbps for premium users (which can sound better than the desktop app's 320kbps due to a more efficient codec (Vorbis vs AAC))
+- No quality control, so with bad internet you might be forced a lower quality stream
 - Smart features like automix are missing (so certain albums' song transitions can sound worse)
 - Resource usage is slightly higher (might be resolvable in a future update)
