@@ -17,10 +17,14 @@ Below are some comparisons of this wrapper to the official desktop app:
 
 - Faster startup and browsing (about 2-3x from my testing)
 - Always updated (because it's basically just a website)
-- More customizable
-- Smarter cache management (uses the one built into your system)
-- Fully portable (if there are no permission issues)
-- Comparable quality to the desktop app at lower bitrates (so a smaller cache size): 128kbps AAC (≈192kbps MP3) for free users, 256kbps AAC (≈384kbps MP3) for premium users; the only exception is the Lossless tier on the desktop app, which will give higher quality than all options mentioned here
+- Smarter cache management (uses the manager built into your system)
+- Fully portable (if there are no permission issues), so no real installation or admin rights required
+- Comparable quality to the desktop app at lower bitrates (so a smaller cache size and less data usage):
+
+|  | Web/Wraptify | Desktop (Lossy) | Desktop (Lossless) |
+|---|---|---|---|
+| Free | 128 kbps AAC (≈192 kbps MP3) | 160 kbps Vorbis (≈192 kbps MP3) | N/A |
+| Premium | 256 kbps AAC (≈384 kbps MP3) | 320 kbps Vorbis (≈384 kbps MP3) | 2000 kbps FLAC |
 
 ### Cons
 
